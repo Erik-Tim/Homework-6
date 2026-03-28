@@ -1,0 +1,47 @@
+body {
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.top-bun {
+    height: 80px;
+    background-color: #d9a55a;
+    border-radius: 150px 150px 20px 20px;
+}
+
+.lettuce {
+    height: 20px;
+    background-color: #4CAF50;
+    border-radius: 10px;
+}
+
+.tomato {
+    height: 20px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.onion {
+    height: 15px;
+    background-color: #e6ccff;
+    border-radius: 10px;
+}
+
+.cheese {
+    height: 20px;
+    background-color: yellow;
+}
+
+.patty {
+    height: 40px;
+    background-color: #5c2e00;
+    border-radius: 10px;
+}
+
+.bottom-bun {
+    height: 50px;
+    background-color: #d9a55a;
+    border-radius: 20px 20px 100px 100px;
+}
