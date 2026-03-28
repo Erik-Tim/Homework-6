@@ -4,7 +4,11 @@ body {
     justify-content: center;
     margin-top: 50px;
 }
-
+.Burger {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .TopBun {
     height: 80px;
     background-color: #d9a55a;
