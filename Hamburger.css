@@ -1,3 +1,9 @@
+body {
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
 
 .TopBun {
     height: 80px;
@@ -38,4 +44,3 @@
     height: 50px;
     background-color: #d9a55a;
     border-radius: 20px 20px 100px 100px;
-}
